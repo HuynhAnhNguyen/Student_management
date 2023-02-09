@@ -1,0 +1,5 @@
+D:\WinForm\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.AssemblyReference.cache
+D:\WinForm\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.SuggestedBindingRedirects.cache
+D:\WinForm\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmMain.resources
+D:\WinForm\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmMonHoc_02.resources
+D:\WinForm\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.GenerateResource.cache
